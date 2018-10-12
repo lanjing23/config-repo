@@ -17,5 +17,5 @@ spring:
   jpa:
     show-sql: true
     
-  env:
-    dev
+env:
+  dev
